@@ -1,3 +1,3 @@
 # 3308-Meeting-Logs
 
-Contains the major happenings from each meeting. 
+the major happenings from each meeting. 
